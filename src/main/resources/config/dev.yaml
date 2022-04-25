@@ -6,4 +6,4 @@ http:
     host: "localhost"
     port: "9082"
     routespath: "/fastGoCall/routes"
-    schedulespath: "/fastGoCall/schedrviceType}"
+    schedulespath: "/fastGoCall/schedrviceType"
